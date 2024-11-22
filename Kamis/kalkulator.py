@@ -1,8 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
 
-from kalkulator import hasil_label
-
 
 # Fungsi untuk menghitung hasil
 def hitung():
